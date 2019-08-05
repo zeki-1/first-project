@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Cc from "./Cc";
+ 
 
 function App() {
   return (
@@ -12,7 +12,6 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>armin zekavati</h1>
-        <Cc />
       </header>
     </div>
   );
