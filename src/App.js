@@ -12,6 +12,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
       <h1>pull update</h1>
+   <h1>new update</h1>
       </header>
     </div>
   );
