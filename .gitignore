@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules/*
-!/node_modules/0000
+!/node_modules/New Microsoft Publisher Document.pub
 /.pnp
 .pnp.js
 
